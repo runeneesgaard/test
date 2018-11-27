@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7633928571428571,
-          "green": 0.1875225995503735,
-          "red": 0.1811943549614449
+          "blue": 0.2784313725490196,
+          "green": 0.1921568627450981,
+          "red": 0.8549019607843137
         },
         "fillType": 0,
         "isEnabled": true,
@@ -123,5 +123,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

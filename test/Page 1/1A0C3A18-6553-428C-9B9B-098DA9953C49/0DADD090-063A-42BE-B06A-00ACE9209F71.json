@@ -45,5 +45,11 @@
     "windingRule": 1
   },
   "symbolID": "58C23970-8A5F-4358-AA6A-E3B0867D4879",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

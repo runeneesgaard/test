@@ -8,7 +8,11 @@
     "red": 1
   },
   "booleanOperation": -1,
+<<<<<<< HEAD
   "changeIdentifier": 30,
+=======
+  "changeIdentifier": 7,
+>>>>>>> 8ae6055d5ac58597e3e1d56d00101635aceb4cba
   "clippingMaskMode": 0,
   "do_objectID": "12039B14-23AE-426E-8B62-1DD7CBCA0FEF",
   "exportOptions": {
